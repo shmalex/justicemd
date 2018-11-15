@@ -1,0 +1,1 @@
+The database server is currently unavailable. Please try again in an hour. We are sorry for the inconvenience. Unable to connect to DB server:FATAL:
